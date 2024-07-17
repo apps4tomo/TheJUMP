@@ -1,0 +1,1 @@
+Mobile devices not supported.
